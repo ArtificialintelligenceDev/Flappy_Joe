@@ -1,2 +1,7 @@
-# Flappy_Joe
-It's not by best work but it surely was fun to code. This is a rendition of flappy bird specifically themed to my community college.
+# FlappyBird-JavaScript
+
+The Snake game, created using JavaScript, and The HTML5 canvas.
+
+Download the starter template, and follow the tutorial on youtube step by step.
+
+Tutorial link : https://www.youtube.com/watch?v=L07i4g-zhDA
